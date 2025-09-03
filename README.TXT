@@ -1,14 +1,19 @@
-Project: naive-ticket-machine
-Authors: David Barnes and Michael Kölling
+2.
+It gets set to 0
 
-This project is part of the material for the book
+3.
+Inserting a negative number subtracts,
+You cannot insert a bigger than 2147483647 and smaller than -2147483649
+It still prints a ticket if you do not have enough money
 
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-   Pearson Education
+5.
+The printed price is different, the first one is 1 cent and the second is 4 cents
 
-It is discussed in chapter 2.
+6.
+public class Sudent
+public class LabClass
 
-Purpose of project: To illustrate the basics of fields, constructors, and methods.
-How to start this project: Create one or more TicketMachine objects.
+7.
+It does matter,
+changing the order of public class makes the editor not highlight the inner part.
+The  error message is "<identifier>expected" after class and "class,interface,enum or record expected" after public.
