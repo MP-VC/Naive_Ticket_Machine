@@ -3,7 +3,7 @@ It gets set to 0
 
 3.
 Inserting a negative number subtracts,
-You cannot insert a bigger than 2147483647 and smaller than -2147483649
+You cannot insert a bigger than 2147483647 and smaller than -2147483648
 It still prints a ticket if you do not have enough money
 
 5.
@@ -17,3 +17,4 @@ public class LabClass
 It does matter,
 changing the order of public class makes the editor not highlight the inner part.
 The  error message is "<identifier>expected" after class and "class,interface,enum or record expected" after public.
+The message does explain it, but it is not clear enough for new people
