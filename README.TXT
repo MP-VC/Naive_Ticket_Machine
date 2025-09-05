@@ -92,3 +92,32 @@ public Date(String month,int day, int year)
 
 23.
 They have different names
+
+24.
+Retrive your balance
+
+25.
+If it is changed, the return statement does not need to be changed.
+It means balance was already stated before
+
+26.
+Added in code
+
+27.
+It says "not a statement"
+
+28.
+printTicket has a void visibility and the other is int
+
+29.
+They do not have return statements
+insertMoney has getBalance to print the balance and printTicket opens it in the terminal
+
+31.
+**
+* Increase score by the given number of points.
+*/
+public void increaseScore(int points)
+{
+// TODO: Increase score by the value in points.
+}
