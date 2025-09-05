@@ -168,3 +168,5 @@ Added in code
 They have different prices, each objects run there own things
 
 43.
+They should the same result(bugging in BlueJ), %d inserts the next argument as a interger and %n ends the line
+
