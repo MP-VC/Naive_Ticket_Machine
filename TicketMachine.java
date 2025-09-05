@@ -83,4 +83,20 @@ public class TicketMachine
     {
         return total;
     }
+    
+    /**
+     * Prompt
+     */
+    public void Prompt()
+    {
+        System.out.println("Please insert the correct amount of money.");
+    }
+    
+    /**
+     * Show the current price
+     */
+    public void showPrice()
+    {
+        System.out.println("The price of a ticket is " + price + " cents.");
+    }
 }

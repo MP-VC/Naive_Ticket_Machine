@@ -114,10 +114,57 @@ They do not have return statements
 insertMoney has getBalance to print the balance and printTicket opens it in the terminal
 
 31.
-**
+/**
 * Increase score by the given number of points.
 */
 public void increaseScore(int points)
 {
-// TODO: Increase score by the value in points.
+score = score + points; 
 }
+
+32.
+It is a mutator, you could print out the before and after
+
+33.
+/**
+* Reduce price by the given amount.
+*/
+public void discount(int amount)
+{
+    price = price - amount;
+}
+
+34.
+public void setAge(int currentAge)
+{
+    age = currentAge;
+}
+
+35.
+public void setAlive(boolean alive)
+{
+    this.alive = alive;
+}
+
+36.
+It shows 0 even if I entered 11 in the price
+
+37.
+My cat has green eyes.
+
+38.
+Added in code
+
+39.
+It would print "price" and not the price variable
+
+40.
+It would print "# price cents."
+
+41.
+Added in code
+
+42.
+They have different prices, each objects run there own things
+
+43.
