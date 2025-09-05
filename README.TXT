@@ -18,3 +18,43 @@ It does matter,
 changing the order of public class makes the editor not highlight the inner part.
 The  error message is "<identifier>expected" after class and "class,interface,enum or record expected" after public.
 The message does explain it, but it is not clear enough for new people
+
+8.
+It is possible to remove public
+
+9.
+It is not possible to remove class
+
+10.
+Constructor:
+public TicketMachine(int cost)
+
+Fields:
+private int price;
+private int balance;
+private int total;
+
+Methodes:
+public int getPrice()
+public int getBalance()
+public void insertMoney(int amount)
+public void printTicket()
+
+11.
+
+
+12.
+count is an interger
+representative is a string
+host is a string
+
+13.
+alive
+tutor
+game
+
+14.
+
+
+15.
+The order does matter, the error message is "<identifier> exepected"
