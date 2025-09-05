@@ -41,7 +41,8 @@ public void insertMoney(int amount)
 public void printTicket()
 
 11.
-
+There is no type 
+It matches the class name
 
 12.
 count is an interger
@@ -57,4 +58,37 @@ game
 
 
 15.
-The order does matter, the error message is "<identifier> exepected"
+The order does matter, the error message is "<identifier> exepected" for the price.
+The class apperence does look different when modified, it gives a hint to the order.
+
+16.
+Yes it is necessary.
+
+17.
+private int status;
+
+18.
+It belongs to Student.
+
+19.
+It has 2 parameters, title is a string and price is a double.
+
+20.
+They have to be stored.
+You could guess some of the fields.
+You cannot know anything for sure.
+
+21.
+public Pet(String petsName)
+{
+    name = petsName;
+}
+
+22.
+public Date(String month,int day, int year)
+{
+    System.out.println(month + day + year)
+}
+
+23.
+They have different names
