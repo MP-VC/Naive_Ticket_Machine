@@ -170,3 +170,12 @@ They have different prices, each objects run there own things
 43.
 They should the same result(bugging in BlueJ), %d inserts the next argument as a interger and %n ends the line
 
+44.
+You can not add a cost anymore and the price will always be 1000
+
+45.
+Added in code
+
+46.
+It does not need any parameters.
+It is a mutator since it modifies the total.

@@ -19,6 +19,16 @@ public class TicketMachine
     private int total;
 
     /**
+     * Create a machine that issues tickets of the price of 1000.
+     */
+    public TicketMachine()
+    {
+        price = 1000;
+        balance = 0;
+        total = 0;
+    }
+    
+    /**
      * Create a machine that issues tickets of the given price.
      * Note that the price must be greater than zero, and there
      * are no checks to ensure this.
@@ -98,5 +108,13 @@ public class TicketMachine
     public void showPrice()
     {
         System.out.println("The price of a ticket is " + price + " cents.");
+    }
+    
+     /**
+     * Sets the total to 0
+     */
+    public void empty()
+    {
+        total = 0;
     }
 }
